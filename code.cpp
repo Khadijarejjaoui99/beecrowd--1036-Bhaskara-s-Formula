@@ -1,4 +1,4 @@
-// solution of 1036 Bhaskara's Formula problem in beecrowd
+// solution of 1036 Bhaskara's Formula problem using c++ from beecrowd website
 #include <iostream>
 #include <cmath>
 #include <iomanip>
